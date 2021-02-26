@@ -8,7 +8,7 @@ output: html_document
 
 <br>
 
-1. **Reseach Technician III** - Cornell Biological Field Station, Bridgeport, NY
+1. **Research Technician III** - Cornell Biological Field Station, Bridgeport, NY
 
 2. **Master's of Science Candidate** - Cornell University, Department of Natural Resources, Ithaca, NY
 
